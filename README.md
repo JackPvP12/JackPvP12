@@ -1,7 +1,7 @@
 # Informações sobre mim!
 
-- 👋 Ola, me chamo Jackson.
-- 👀 Sou interessado em programação e criação de jogos.
+- 👋 Ola, me chamo **Jackson**.
+- 👀 Sou interessado em **programação** e **criação de jogos**.
 - 🌱 Atualmente não estou lendo nada.
 - 💞️ Vou nem comentar 😞...
 <!---
